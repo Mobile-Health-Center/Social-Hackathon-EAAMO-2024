@@ -1,4 +1,4 @@
-Github: <https://github.com/sandroradovanovic/Social-Hackathon-EAAMO-2024>
+Github: <https://github.com/Mobile-Health-Center/Social-Hackathon-EAAMO-2024>
 
 EAAMO CfP: <https://conference.eaamo.org/cfp/> 
 
