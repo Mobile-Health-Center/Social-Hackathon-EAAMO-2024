@@ -206,6 +206,11 @@ We welcome participants from all backgrounds, including:
 3. Form or join a team, or register as an individual and we'll help you find a team.
 4. Submit your registration by October 31, 2024.
 
+## Jury
+
+- Dra. Yelda A. Leal.  Directora Centro Institucional de Capacitación y Registro de Cáncer (CICYRC)
+Centro Médico Nacional S. XXI
+
 ## Organizing Committee
 
 
