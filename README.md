@@ -1,10 +1,9 @@
-Github: <https://github.com/Mobile-Health-Center/Social-Hackathon-EAAMO-2024>
-
-EAAMO CfP: <https://conference.eaamo.org/cfp/> 
 
 # <a name="_323rwzhtw6ca"></a>Call for Proposals: EAAMO Social Hackathon
 
-We invite you to participate in the Social Hackathon, a key component of the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), to be held at the Autonomous University of San Luis Potosi (UASLP) in San Luis Potosi, Mexico on October 31, 2024.
+We invite you to participate in the Social Hackathon, a key component of the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), to be held at the Autonomous University of San Luis Potosi (UASLP) in San Luis Potosi, Mexico on October 31, 2024. EAAMO CfP: <https://conference.eaamo.org/cfp/> 
+
+
 ### <a name="_l6pkwa85qv71"></a>The Social Hackathon Vision
 The Social Hackathon is more than a competition—it’s a call to action for the EAAMO community. This initiative is designed to harness the power of algorithms, optimization, and mechanism design, coupled with insights from the social sciences and humanistic studies, to tackle pressing social issues. Local partners provide curated datasets and extensive context on these issues, aiming to incorporate insights from impacted communities and policymakers. The goal is to create practical tools that bridge the research-to-practice pipeline. Winning teams will continue collaborating with policymakers to refine and implement their solutions.
 ### <a name="_tkxla2g6zhbb"></a>This Year’s Challenge: Breast Cancer in Mexico
