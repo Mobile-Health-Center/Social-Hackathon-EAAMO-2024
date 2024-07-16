@@ -80,7 +80,7 @@ We welcome participants from all backgrounds, including:
 - Win Prizes: Gain recognition and support for your innovative ideas.
 - Make an Impact: Improve the lives of thousands of women across Mexico.
 ### <a name="_7vph9uket425"></a>How to Register
-1. Visit our [registration page]([http://www.breastcancerhackathon.mx/](https://forms.gle/g3xswuk61xbL38XC9)).
+1. Visit our [registration page](https://forms.gle/g3xswuk61xbL38XC9).
 1. Fill out the registration form with your details.
 1. Form or join a team, or register as an individual and we'll help you find a team.
 1. Submit your registration by XXXX.
