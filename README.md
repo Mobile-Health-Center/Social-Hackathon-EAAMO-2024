@@ -211,6 +211,8 @@ We welcome participants from all backgrounds, including:
 - Dra. Yelda A. Leal.  Directora Centro Institucional de Capacitación y Registro de Cáncer (CICYRC)
 Centro Médico Nacional S. XXI
 
+- Dr. José Luis Morán López. Coordinador académico del Cenytro Nacional de Supercómputo y del Grupo de Ciencia e Ingeniería Computacionales del IPICYT. 
+
 ## Organizing Committee
 
 
