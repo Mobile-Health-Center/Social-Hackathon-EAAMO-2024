@@ -1,7 +1,7 @@
 
 # <a name="_323rwzhtw6ca"></a>Call for Proposals: EAAMO Social Hackathon
 
-We invite you to participate in the Social Hackathon, a key component of the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), to be held at the Autonomous University of San Luis Potosi (UASLP) in San Luis Potosi, Mexico on October 31, 2024. EAAMO CfP: <https://conference.eaamo.org/cfp/> 
+We invite you to participate in the Social Hackathon, a key component of the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), to be held at the Autonomous University of San Luis Potosi (UASLP) in San Luis Potosi, Mexico on October 31, 2024. You can find the EAAMO call for paper [here](<https://conference.eaamo.org/cfp/>).
 
 
 ### <a name="_l6pkwa85qv71"></a>The Social Hackathon Vision
@@ -35,33 +35,35 @@ For this year's Social Hackathon, we are honored to collaborate with Professor J
 **Priority 4—Science Education**: Develop digital tools to translate scientific evidence regarding breast cancer for individuals, communities, and public policy, improving public health decision-making.
 
 ### <a name="_56fwqnw6s6kq"></a>Timeline of Events
+
 **August**:
 
-\- **Virtual EAAMO Colloquium Talk**: Join us for a virtual colloquium featuring Professor Jacqueline Calderon and public health policymakers from the San Luis Potosi Secretary of Health and The Mexican Institute of Social Security. This session will provide extensive social context around breast cancer, focusing on public policy challenges in San Luis Potosi and Mexico.
+- **Virtual EAAMO Colloquium Talk**: Join us for a virtual colloquium featuring Professor Jacqueline Calderon and public health policymakers from the San Luis Potosi Secretary of Health and The Mexican Institute of Social Security. This session will provide extensive social context around breast cancer, focusing on public policy challenges in San Luis Potosi and Mexico.
 
-\- **Dataset Release and Call for Participation**: The dataset will be shared, and we will publicize the call for participation, opening submissions for the Social Hackathon.
+- **Dataset Release and Call for Participation**: The dataset will be shared, and we will publicize the call for participation, opening submissions for the Social Hackathon.
 
-\- **Team Formation and Initial Work**: Participants are encouraged to form teams and begin their projects following the colloquium.
+- **Team Formation and Initial Work**: Participants are encouraged to form teams and begin their projects following the colloquium.
 
 **September**:
 
-\- **Ongoing Project Development**: Teams will work on their projects throughout the month.
+- **Ongoing Project Development**: Teams will work on their projects throughout the month.
 
-\- **Proposal Submissions**: By the end of September, teams should submit proposals outlining concrete steps toward implementing a tool to aid policymakers in addressing the issues presented in August.
+- **Proposal Submissions**: By the end of September, teams should submit proposals outlining concrete steps toward implementing a tool to aid policymakers in addressing the issues presented in August.
 
 **October**:
 
-\- **Selection of Finalists**: Early in the month, we will select finalists who will receive travel grants to attend EAAMO '24.
+- **Selection of Finalists**: Early in the month, we will select finalists who will receive travel grants to attend EAAMO '24.
 
-\- **EAAMO '24 Conference**: Finalist teams will attend the conference, where they can learn from presented papers and talks.
+- **EAAMO '24 Conference**: Finalist teams will attend the conference, where they can learn from presented papers and talks.
 
-\- **Elevator Pitches**: At the end of the conference, finalist teams will present elevator pitches to a selection panel, which includes the experts who spoke in August.
+- **Elevator Pitches**: At the end of the conference, finalist teams will present elevator pitches to a selection panel, which includes the experts who spoke in August.
 
-\- **Announcement of Winners**: Winners will be chosen and awarded a prize (TBA).
+- **Announcement of Winners**: Winners will be chosen and awarded a prize (TBA).
 
 **November onwards**:
 
-\- **Collaboration with Policymakers**: Winning teams will continue working with local policymakers to refine and implement their tools, ensuring a transition from competition to practical application.
+- **Collaboration with Policymakers**: Winning teams will continue working with local policymakers to refine and implement their tools, ensuring a transition from competition to practical application.
+
 ### <a name="_gej2foxlao6p"></a>Who Should Participate?
 We welcome participants from all backgrounds, including:
 
@@ -114,49 +116,49 @@ We invite you to submit your innovative solutions to the EAAMO Social Hackathon.
 
 **1. Project Description:**
 
-`   `- **System Overview**: Provide a comprehensive description of your system, including its main features, functionalities, and user interface.
+- **System Overview**: Provide a comprehensive description of your system, including its main features, functionalities, and user interface.
 
-`   `- **Usage Instructions**: Include detailed instructions for using the system, such as installation steps, user guides, and any necessary configurations.
+- **Usage Instructions**: Include detailed instructions for using the system, such as installation steps, user guides, and any necessary configurations.
 
 **2. Problem Statement:**
 
-`   `- **Identification of the Problem**: Clearly define the specific problem your system seeks to address, highlighting its relevance to the challenge of breast cancer and environmental contaminants in Mexico.
+- **Identification of the Problem**: Clearly define the specific problem your system seeks to address, highlighting its relevance to the challenge of breast cancer and environmental contaminants in Mexico.
 
-`   `- **Importance of the Problem**: Explain the significance of the problem, including its impact on public health, social disparities, and the urgency for a solution.
+- **Importance of the Problem**: Explain the significance of the problem, including its impact on public health, social disparities, and the urgency for a solution.
 
 **3. System Details:**
 
-`   `- **Technical Specifications**: Provide technical details about the system architecture, programming languages, frameworks, and tools used in development.
+- **Technical Specifications**: Provide technical details about the system architecture, programming languages, frameworks, and tools used in development.
 
-`   `- **Prototype/Deployment**: Indicate whether your solution is a prototype or a fully deployed system, and describe any deployment processes or requirements.
+- **Prototype/Deployment**: Indicate whether your solution is a prototype or a fully deployed system, and describe any deployment processes or requirements.
 
 **4. Evaluation and Impact:**
 
-`   `- **Known Limitations**: Discuss any known limitations or challenges associated with your system, including potential technical, logistical, or scalability issues.
+- **Known Limitations**: Discuss any known limitations or challenges associated with your system, including potential technical, logistical, or scalability issues.
 
-`   `- **Societal and Ethical Considerations**: Address the societal and ethical considerations for using your system, particularly in the context of public health and data privacy.
+- **Societal and Ethical Considerations**: Address the societal and ethical considerations for using your system, particularly in the context of public health and data privacy.
 
-`   `- **Impact Assessment**: Provide an assessment of the potential impact of your solution on the identified problem, including quantitative and qualitative metrics if available.
+- **Impact Assessment**: Provide an assessment of the potential impact of your solution on the identified problem, including quantitative and qualitative metrics if available.
 
 **5. Future Developments:**
 
-`   `- **Potential for Improvement**: Outline potential future developments for your system, including additional features, enhancements, or scalability plans.
+- **Potential for Improvement**: Outline potential future developments for your system, including additional features, enhancements, or scalability plans.
 
-`   `- **Collaboration and Implementation**: Describe how you envision collaborating with policymakers and other stakeholders to refine and implement your solution, ensuring its practical application and sustainability.
+- **Collaboration and Implementation**: Describe how you envision collaborating with policymakers and other stakeholders to refine and implement your solution, ensuring its practical application and sustainability.
 
 **6. Submission Format:**
 
-`   `- **Main Document**: Submit a PDF document that includes all the sections outlined above.
+- **Main Document**: Submit a PDF document that includes all the sections outlined above.
 
-`   `- **Demo/Prototype**: If applicable, provide a link to a live demo or a downloadable prototype of your system.
+- **Demo/Prototype**: If applicable, provide a link to a live demo or a downloadable prototype of your system.
 
-`   `- **Supplementary Materials**: Include any additional materials that support your submission, such as video demonstrations, datasets, or user testimonials.
+- **Supplementary Materials**: Include any additional materials that support your submission, such as video demonstrations, datasets, or user testimonials.
 
 **7. Submission Process:**
 
-`   `- **Submission Portal**: Submit your documents and materials through the EAAMO Social Hackathon submission portal [Insert Portal Link Here].
+- **Submission Portal**: Submit your documents and materials through the EAAMO Social Hackathon submission portal [Insert Portal Link Here].
 
-`   `- **Deadline**: Ensure your submission is completed by the end of September [Insert Exact Date Here].
+- **Deadline**: Ensure your submission is completed by the end of September [Insert Exact Date Here].
 
 We look forward to receiving your submissions and seeing how your innovative solutions can drive equity and access in addressing breast cancer and environmental contaminants in Mexico. For any questions or further information, please contact [Hackathon Coordinator Contact Information].
 
