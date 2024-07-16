@@ -217,12 +217,12 @@ Centro Médico Nacional S. XXI
 
 
 - Jaqueline Calderón Hernández, Universidad Autónoma de San Luis Potosí.
-- Lizet Jarquin Yañez, Universidad Autónoma de San Luis Potosí.
 - Francisco Marmolejo-Cosío, Harvard University. 
 - George Obaido, University of California, Berkeley.
 - Salvador Ruiz Correa, Instituto Potosino de Investigación Científica y Tecnológica.
 - Rubén López Revilla, Instituto Potosino de Investigación Científica y Tecnológica.
 - Sandro Radovanovick, University of Belgrade.
+- Lizet Jarquin Yañez, CONAHCYT - Universidad Autónoma de San Luis Potosí.
 
 ## Sponsors and Partners
 
