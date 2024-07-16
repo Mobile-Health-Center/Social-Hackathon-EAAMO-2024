@@ -88,7 +88,7 @@ We welcome participants from all backgrounds, including:
 - Jaqueline Calderón Hernández, Universidad Autónoma de San Luis Potosí.
 - Francisco Marmolejo-Cosío, Harvard University.
 - George Obaido, University of California, Berkeley.
-- Salvador Ruiz Correa, Instituto Potosino de Investigación Científica y Tecnológica.
+- Salvador Ruiz Correa, Grupo de Ciencia e Ingeniería Computacionales, MHC del Instituto Potosino de Investigación Científica y Tecnológica.
 - Rubén López Revilla, Instituto Potosino de Investigación Científica y Tecnológica.
 - Sandro Radovanovick, University of Belgrade.
 - Paula Rodríguez Díaz, Harvard University
