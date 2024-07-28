@@ -1,7 +1,7 @@
 
 # <a name="_323rwzhtw6ca"></a>Call for Proposals: EAAMO Social Hackathon
 
-We invite you to participate in the Social Hackathon, a key component of the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), to be held at the Autonomous University of San Luis Potosi (UASLP) in San Luis Potosi, Mexico on October 31, 2024. You can find the EAAMO call for paper [here](<https://conference.eaamo.org/cfp/>).
+We invite you to participate in the Social Hackathon, a key component of the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), to be held at the Autonomous University of San Luis Potosi (UASLP) in San Luis Potosi, Mexico on October 31, 2024. You can find the EAAMO call for papers [here](<https://conference.eaamo.org/cfp/>).
 
 
 ### <a name="_l6pkwa85qv71"></a>The Social Hackathon Vision
