@@ -10,7 +10,7 @@
 - Does the solution align with the goals of understanding disparities, creating dynamic surveillance platforms, fostering digital ecosystems, and enhancing technical capabilities?
 - Is the proposed solution realistically usable, and does it have the potential to be developed and put into use to benefit the impacted communities?
 
-#### Technical aspects of the software solution:
+### Technical aspects of the software solution:
 - Has the team adequately explained the stack of technologies used in the solution?
 - Are they compatible with each other? How easy is to implement them in a real-world system? Usage of open source and free of charge tools is encouraged.
 - Are the technologies cutting-edge and capable of upgrading the health system and providing expert training and support?
